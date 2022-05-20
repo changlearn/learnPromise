@@ -1,0 +1,22 @@
+{
+  "name": "learn-promise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon ./test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^2.8.6"
+  },
+  "dependencies": {
+    "express": "^4.17.3",
+    "md5": "^2.3.0",
+    "node-fetch": "^2.2.4",
+    "nodemon": "^2.0.15"
+  }
+}
